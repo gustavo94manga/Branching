@@ -13,7 +13,7 @@
 * 'git status' - show commit status of local repo
 * 'git log' - show commit log
 * 'git log --oneline' - show commit log (compact format)
-
+* 'git config -l' - list repo configuration
 
 ### Branching Commands
 * 'git branch OR git status' - list local branches
