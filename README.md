@@ -15,3 +15,16 @@ Git cheat sheet and branching practice
 * 'git status' - show commit status of local repo
 * 'git log' - show commit log
 * 'git log --oneline' - show commit log (compact format)
+* 'git config -l' - list repo configuration
+
+### Branching Commands
+* 'git branch OR git status' - list local branches
+* 'git branch branchName' - create local branch 'branchName'
+* 'git checkout branchName' - switch to branch 'branchName'
+
+
+### Remote Commands
+* 'git remote add origin repoUrl' - create alias 'origin'
+for remote repo 'repoUrl'
+* 'git push origin branchName' - push to remote branch 
+'branchName', making it the default remote
