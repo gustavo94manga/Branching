@@ -21,7 +21,8 @@ Git cheat sheet and branching practice
 * 'git branch OR git status' - list local branches
 * 'git branch branchName' - create local branch 'branchName'
 * 'git checkout branchName' - switch to branch 'branchName'
-
+* 'git checkout -b branchName' - create and switch to branch
+'branchName'
 
 ### Remote Commands
 * 'git remote add origin repoUrl' - create alias 'origin'
